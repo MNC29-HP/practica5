@@ -8,15 +8,15 @@
   </tr>
   <tr>
     <td><strong>Nivel:</strong></td>
-    <td>3er</td>
+    <td>2do</td>
   </tr>
   <tr>
     <td><strong>Asignatura:</strong></td>
-    <td>PROGRAMACIÓN APLICADA</td>
+    <td>PROGRAMACIÓN ORIENTADA A OBJETOS</td>
   </tr>
   <tr>
     <td><strong>Desarrollado por:</strong></td>
-    <td></td>
+    <td>Mateo García</td>
   </tr>
   <tr>
     <td><strong>Grupo:</strong></td>
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td><strong>Indicador de logro:</strong></td>
-    <td></td>
+    <td>Diseña e implementa 20 aplicaciones usando arquitectura MVC</td>
   </tr>
   <tr>
     <td><strong>Práctica/Deber Número:</strong></td>
@@ -48,7 +48,43 @@
 
 <h2>1.1 En base al diagrama de clases generado/algoritmo, construir la aplicación</h2>
 <h3>Clase: vehiculo</h3>
+<h5>Header</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/c47f03156ca230704fd00bf347ca24deb36fbfc9/vh.PNG">
+<h5>CPP</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/c47f03156ca230704fd00bf347ca24deb36fbfc9/vc.PNG">
 
+<h3>Clase: cliente</h3>
+<h5>Header</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/ch.PNG">
+<h5>CPP</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/cc.PNG">
+
+<h3>Clase: concesionario</h3>
+<h5>Header</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/conh.PNG">
+<h5>CPP</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/conc.PNG">
+
+<h3>Clase: logica</h3>
+<h5>Header</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/lh.PNG">
+<h5>CPP</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/lc.PNG">
+
+<h3>Clase: registrar</h3>
+<h5>Header</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/rh.PNG">
+<h5>CPP</h5>
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/rc1.PNG">
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/rc2.PNG">
+
+<h2>1.2 Generar una clase main que cumpla con los siguientes requisitos planteados en el problema:</h2>
+<img src="https://github.com/MNC29-HP/practica5/blob/9a539ffc5dec653f3eed6688909ec33838cda0c5/main.PNG">
+
+<h2>Capturas de la ejecución del programa</h2>
+<img src="https://github.com/MNC29-HP/practica5/blob/1d7b9363608ea0a226d693eda36bd96d1d2f71e5/e1.PNG">
+<img src="https://github.com/MNC29-HP/practica5/blob/1d7b9363608ea0a226d693eda36bd96d1d2f71e5/e2.PNG">
+<img src="https://github.com/MNC29-HP/practica5/blob/1d7b9363608ea0a226d693eda36bd96d1d2f71e5/e3.PNG">
 
 
 
