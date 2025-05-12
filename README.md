@@ -44,4 +44,11 @@
 </table>
 
 <h1>Descripción de la Práctica</h1>
-![Image_Alt](https://github.com/MNC29-HP/practica5/blob/5979fb354bf7a6ec58cc42c7eb3f3cc39c8f4091/d.png)
+<img src="https://github.com/MNC29-HP/practica5/blob/5979fb354bf7a6ec58cc42c7eb3f3cc39c8f4091/d.png">
+
+<h2>1.1 En base al diagrama de clases generado/algoritmo, construir la aplicación</h2>
+<h3>Clase: vehiculo</h3>
+
+
+
+
